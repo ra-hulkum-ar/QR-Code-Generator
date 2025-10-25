@@ -50,4 +50,5 @@ qr-code-generator/
 └── assets/
 
 └── test-qr-code.png
+
 📄 License This project is open-source and available under the MIT License.
