@@ -25,7 +25,7 @@ This is a modern, mobile-friendly QR Code Generator built using HTML, CSS, and J
 
 🚀
     Live Demo
-(https://p-r-iyanka.github.io/-QR-Code-Generator/)
+(https://ra-hulkum-ar.github.io/QR-Code-Generator/)
 
 
 
