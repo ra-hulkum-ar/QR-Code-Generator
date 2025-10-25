@@ -46,7 +46,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone (https://github.com/p-r-iyanka/-QR-Code-Generator/commit/f3df0130f953fd7be9a784690f503ffe5f0cc7c1)
+git clone (https://github.com/ra-hulkum-ar/QR-Code-Generator/blob/main/index.html)
 cd qr-code-generator
 Open index.html in your browser.
 
