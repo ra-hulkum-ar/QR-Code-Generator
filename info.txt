@@ -1,0 +1,48 @@
+QR Code Generator Webpage - info.txt
+
+Description:
+-------------------
+This webpage allows users to generate custom QR codes with the ability to modify various aspects, such as background color, QR code color, size, and the option to add a logo. Users can also adjust the logo size and make the logo's background transparent. The page is designed with an attractive, modern, and responsive interface using HTML, CSS, and JavaScript.
+
+Key Features:
+-------------------
+1. **Text / URL Input**: Users can enter any text or URL to generate a QR code.
+2. **Background Color**: Users can choose the background color of the QR code.
+3. **QR Code Color**: Users can customize the color of the QR code itself.
+4. **QR Code Size**: Users can adjust the size of the QR code in pixels.
+5. **Logo (Optional)**: Users can upload a logo image to be displayed inside the QR code.
+6. **Logo Size**: Users can control the size of the logo within the QR code.
+7. **Transparent Logo Background**: If checked, the logo background becomes transparent, allowing the logo to blend seamlessly with the QR code.
+8. **Logo Background Color**: Users can set a background color for the logo if transparency is not selected.
+
+Technologies Used:
+-------------------
+1. **HTML**: The structure of the webpage.
+2. **CSS**: Styling the page to make it visually appealing, including gradients, responsive design, and hover effects.
+3. **JavaScript**: Used to handle QR code generation logic (easy-qrcode.js is used).
+4. **External Libraries**: easy-qrcode.js for generating QR codes.
+
+Folder Structure:
+-------------------
+- index.html: The main HTML file containing the structure of the webpage.
+- style.css: The CSS file for styling the page (can be embedded in HTML).
+- script.js: JavaScript file that controls the behavior of the form and QR code generation.
+- easy-qrcode.js: External script used for generating QR codes.
+
+How to Use:
+-------------------
+1. Enter text or a URL in the "Text / URL" input field.
+2. Customize the QR code's appearance by selecting the background color, QR code color, and size.
+3. (Optional) Upload a logo by clicking "Add a Logo (Optional)" and select an image file.
+4. Adjust the logo size and select whether to make the logo's background transparent.
+5. If you'd like to change the logo background color, select a color for the logo background.
+6. Click the "Generate QR Code" button to create the customized QR code.
+7. Once the QR code is generated, you can download it by clicking the "Download QR Code" button.
+
+Notes:
+-------------------
+- This webpage is designed to be responsive and adjusts to various screen sizes for mobile, tablet, and desktop.
+- The colors of the webpage are based on a gradient of purple, pink, and blue tones for a visually appealing look.
+- The generated QR code can be scanned with any standard QR code scanner to open the encoded text or URL.
+
+© 2025 QR Code Generator

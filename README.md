@@ -1,5 +1,7 @@
-QR-Code-Generator
-🔳 QR Code Generator – Stylish & Responsive This is a modern, mobile-friendly QR Code Generator built using HTML, CSS, and JavaScript. It allows users to create custom QR codes with options for color, size, embedded logos, and more – all wrapped in a beautiful, responsive design.
+# QR-Code-Generator
+
+🔳 QR Code Generator – Stylish & Responsive
+This is a modern, mobile-friendly QR Code Generator built using HTML, CSS, and JavaScript. It allows users to create custom QR codes with options for color, size, embedded logos, and more – all wrapped in a beautiful, responsive design.
 
 🎯 Features:-
 
@@ -19,9 +21,16 @@ QR-Code-Generator
 
 💫 Smooth UI/UX with gradients and glassmorphism
 
-🚀 Live Demo (https://p-r-iyanka.github.io/-QR-Code-Generator/)
 
-📁 Technologies Used HTML5
+
+🚀
+    Live Demo
+(https://p-r-iyanka.github.io/-QR-Code-Generator/)
+
+
+
+📁 Technologies Used
+HTML5
 
 CSS3 (with responsive media queries)
 
@@ -29,13 +38,25 @@ JavaScript (ES6)
 
 EasyQRCodeJS
 
-🛠️ How to Use Clone the repo:
 
-bash Copy Edit git clone (https://github.com/p-r-iyanka/-QR-Code-Generator/commit/f3df0130f953fd7be9a784690f503ffe5f0cc7c1) cd qr-code-generator Open index.html in your browser.
+
+🛠️ How to Use
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone (https://github.com/p-r-iyanka/-QR-Code-Generator/commit/f3df0130f953fd7be9a784690f503ffe5f0cc7c1)
+cd qr-code-generator
+Open index.html in your browser.
 
 Enter content, choose options, generate and download your QR code!
 
-📦 Folder Structure cpp Copy Edit
+
+📦 Folder Structure
+cpp
+Copy
+Edit
 
 qr-code-generator/
 
@@ -49,6 +70,8 @@ qr-code-generator/
 
 └── assets/
 
-└── test-qr-code.png
+    └── test-qr-code.png
 
-📄 License This project is open-source and available under the MIT License.
+    
+📄 License
+This project is open-source and available under the MIT License.
